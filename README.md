@@ -2,7 +2,7 @@
 <html>
 <head>
 </head>
-<body style="background-color: black;"> <!-- Definindo o fundo como preto -->
+<body style="background-color: black;">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
