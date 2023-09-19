@@ -6,10 +6,6 @@
 <a href="https://www.instagram.com/victor.lopesu/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
   
-<div align="center">  
-<a href="https://www.instagram.com/victor.lopesu/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-
 <div align="center">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{VictorLPU}/count.svg" /></p> 
